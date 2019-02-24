@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hanson</string>
+    <string name="gallery">gallery</string>
+    <string name="camera">camera</string>
+    <string name="imageview">imageview</string>
+
+</resources>
